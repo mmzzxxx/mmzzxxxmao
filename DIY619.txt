@@ -48,7 +48,7 @@
 {"key":"csp_xpath_zxzj","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/在线.json"},
 {"key":"csp_xpath_bidiys","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/bidiys.json"},
 
-{ "key" : " csp_xpath_nmys " , "name" : "经常影视" , "type" : 3 , "api" : " csp_XPathFilter " , "searchable" : 1 , "quickSearch" : 1 , "filterable " : 1 , "ext" : " https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys2.json " },
+
 
 {"key":"csp_biubiu_tgys","name":"特狗影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"双十电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/1010dy.json"},
