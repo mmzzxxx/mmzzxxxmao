@@ -33,7 +33,7 @@
 
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
-{"key":"csp_xpath_qiyou","name":"🐹奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/qiyou.json"},
+{"key":"csp_xpath_qiyou","name":"奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/qiyou.json"},
 {"key":"csp_xpath_kuqimv","name":"🎸MTV(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/kuqimv.json"},
 {"key":"csp_xpath_dmd","name":"动漫岛(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dmd.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dm84.json"},
@@ -47,6 +47,7 @@
 {"key":"csp_xpath_bidiys","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/bidiys.json"},
 
 
+{"key":"csp_biubiu_douyu","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/douyu.json"},
 {"key":"csp_biubiu_tgys","name":"特狗影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"双十电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/1010dy.json"},
 {"key":"csp_biubiu_qyyy","name":"奇优影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/qyyy.json"},
@@ -71,9 +72,8 @@
 {"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"8090资源(含官采)","name":"8090资源网(xml官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"m3u8资源(含官采)","name":"m3u8资源(xml官采)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
 ],
-
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
