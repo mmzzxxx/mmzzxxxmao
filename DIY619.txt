@@ -3,7 +3,7 @@
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://mmzzxxx.github.io/maomao/wq666.jar",
+  "spider": "https://mmzzxxx.github.io/mmzzxxxmao/0618.jar",
 
 
 "sites": [
