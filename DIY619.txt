@@ -40,7 +40,7 @@
 
 {"key":"csp_biubiu_打驴动漫","name":"🐶打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/打驴动漫.json"},
 {"key":"csp_xpath_age","name":"🐒AGE动漫(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/agefans.json"},
-{ “key”：“ csp_xpath_dm84 ”，“name”：“动漫巴士”，“type”：3，“api”：“ csp_XPathFilter ”，“searchable”：1，“quickSearch”：1， “filterable ”：1，"ext" : " https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json " },
+{"key":"csp_xpath_dm84","name":"动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json"},
 {"key":"csp_xpath_lib","name":"Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/lib2.json"},
 {"key":"csp_xpath_dadagui","name":"达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 {"key":"csp_xpath_qiumi","name":"🏀球迷(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/qiumi.json"},
