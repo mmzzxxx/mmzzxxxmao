@@ -40,15 +40,15 @@
 
 {"key":"csp_biubiu_打驴动漫","name":"🐶打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/hstsws008/dizhi/-/raw/main/XP/打驴动漫.json"},
 {"key":"csp_xpath_age","name":"🐒AGE动漫(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/agefans.json"},
-
+{ “key”：“ csp_xpath_dm84 ”，“name”：“🐵动漫巴士”，“type”：3，“api”：“ csp_XPathFilter ”，“searchable”：1，“quickSearch”：1， “filterable ”：1，"ext" : " https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json " },
 {"key":"csp_xpath_lib","name":"Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/lib2.json"},
 {"key":"csp_xpath_dadagui","name":"达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 {"key":"csp_xpath_qiumi","name":"🏀球迷(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/qiumi.json"},
 
-{"key":"csp_xpath_zxzj","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/在线.json"},
-{"key":"csp_xpath_bidiys","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/bidiys.json"},
+{"key":"csp_xpath_zxzj","name":"🌐在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/在线.json"},
+{"key":"csp_xpath_bidiys","name":"⛵哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/bidiys.json"},
 
-
+{ "key" : " csp_xpath_nmys " , "name" : "🌼经常影视" , "type" : 3 , "api" : " csp_XPathFilter " , "searchable" : 1 , "quickSearch" : 1 , "filterable " : 1 , "ext" : " https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/nmys2.json " },
 
 {"key":"csp_biubiu_tgys","name":"特狗影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"双十电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/1010dy.json"},
@@ -68,15 +68,7 @@
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
-    //
-{"key":"🔞523 资源","name":"🔞523 资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","可搜索":0,"快速搜索":0},
-{"key":"🔞丝袜资源","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
-{"key":"🔞芒果资源","name":"🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
-{"key":"🔞乐鱼资源","name":"🔞乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php" ,"可搜索":0,"快速搜索":0},
-{"key":"🔞水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
-{"key":"🔞秀色资源","name":"🔞秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/ ","可搜索":0,"快速搜索":0},
-{"key":"🔞探探资源","name":"🔞探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/ ","可搜索":0,"快速搜索":0},
-{"key":"🔞色猫资源","name":"🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php" ,"可搜索":0,"快速搜索":0},
+
 
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
