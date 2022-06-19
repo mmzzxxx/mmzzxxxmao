@@ -29,6 +29,11 @@
 {"key":"csp_biubiu_韩剧佬","name":"🎸韩剧佬〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
 {"key":"csp_biubiu_韩剧在线","name":"🐳韩剧在线〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧在线.json"},
 
+{"key": "csp_Blixs","name": "🤡相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"斗鱼","name":"🎤斗鱼(PHP)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"开麦K歌搜歌","name":"🔊开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"开麦K歌搜人","name":"🔊开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"🍄厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/czspp.json"},
 {"key":"csp_xpath_qiyou","name":"🥝奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/qiyou.json"},
