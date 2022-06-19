@@ -28,8 +28,7 @@
 {"key":"csp_biubiu_黑狐影视ns","name":"🔞黑狐影视〔B〕","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/黑狐影视(ns).json"},
 {"key":"csp_biubiu_韩剧佬","name":"🎸韩剧佬〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
 {"key":"csp_biubiu_韩剧在线","name":"🐳韩剧在线〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧在线.json"},
-
-{"key": "csp_Blixs","name": "🤡相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_相声小品","name": "🤡相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"斗鱼","name":"🎤斗鱼(PHP)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜歌","name":"🔊开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜人","name":"🔊开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
