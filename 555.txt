@@ -24,22 +24,23 @@
 {"key": "csp_xpath_nbys","name": "🍭泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_xpath_qiyou","name":"🐞奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":1 ,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/603-qiyou.js"},
-{"key":"csp_xpath_huya","name":"㊙︎扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
+{"key":"csp_xpath_huya","name":"🔞扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
 
+{"key":"csp_biubiu_黑狐影视ns","name":"🔞黑狐影视〔B〕","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},
 {"key":"csp_biubiu_韩剧佬","name":"🎸韩剧佬〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
 {"key":"csp_biubiu_韩剧在线","name":"🐳韩剧在线〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧在线.json"},
-{"key":"csp_biubiu_黑狐影视ns","name":"🎈黑狐影视(NS)〔B〕","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},
+
 
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/huya2.json"},
-{"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
-{"key":"csp_xpath_qiyou","name":"奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/qiyou.json"},
+{"key":"csp_xpath_czspp","name":"👑厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
+{"key":"csp_xpath_qiyou","name":"🐹奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/qiyou.json"},
 {"key":"csp_xpath_kuqimv","name":"🎸MTV(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/kuqimv.json"},
-{"key":"csp_xpath_dmd","name":"动漫岛(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dmd.json"},
-{"key":"csp_xpath_dm84","name":"动漫巴士(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dm84.json"},
-{"key":"csp_xpath_age","name":"AGE动漫(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/agefans.json"},
+{"key":"csp_xpath_dmd","name":"🐮动漫岛(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dmd.json"},
+{"key":"csp_xpath_dm84","name":"🐷动漫巴士(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dm84.json"},
+{"key":"csp_xpath_age","name":"🐭AGE动漫(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/agefans.json"},
 
-{"key":"csp_xpath_lib","name":"Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/lib2.json"},
-{"key":"csp_xpath_dadagui","name":"达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
+{"key":"csp_xpath_lib","name":"🥕Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/lib2.json"},
+{"key":"csp_xpath_dadagui","name":"🎯达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 {"key":"csp_xpath_qiumi","name":"🏀球迷(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/qiumi.json"},
 
 {"key":"csp_xpath_zxzj","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/zxzj.json"},
@@ -66,12 +67,12 @@
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
-
+{"key":"TG官采(含官采)","name":"⛑︎TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"8090资源(含官采)","name":"8090资源网(xml官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"m3u8资源(含官采)","name":"m3u8资源(xml官采)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
+
 ],
 
 
