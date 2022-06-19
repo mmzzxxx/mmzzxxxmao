@@ -6,7 +6,7 @@
     "电视剧": "2",
     "动漫": "4",
     "综艺": "3",
-    "福利": "5",
+    "🔞福利": "5",
     "神曲": "6"
   },
   "homeVodNode": "//ul[contains(@class, 'stui-vodlist')]/li/div[contains(@class, 'stui-vodlist__box')]/a",
