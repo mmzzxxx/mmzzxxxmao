@@ -65,10 +65,18 @@
 {"key":"csp_biubiu_风车动漫","name":"风车动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/风车动漫.json"},
 {"key":"csp_biubiu_维奇动漫","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/维奇动漫.json"},
 
-
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
+    //
+{"key":"🔞523 资源","name":"🔞523 资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","可搜索":0,"快速搜索":0},
+{"key":"🔞丝袜资源","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
+{"key":"🔞芒果资源","name":"🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
+{"key":"🔞乐鱼资源","name":"🔞乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php" ,"可搜索":0,"快速搜索":0},
+{"key":"🔞水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/", “可搜索”：0，“快速搜索”：0}，
+{"key":"🔞秀色资源","name":"🔞秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/ ","可搜索":0,"快速搜索":0},
+{"key":"🔞探探资源","name":"🔞探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/ ","可搜索":0,"快速搜索":0},
+{"key":"🔞色猫资源","name":"🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php" ,"可搜索":0,"快速搜索":0},
 
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
