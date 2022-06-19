@@ -1,5 +1,3 @@
-
-
 {
 
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
@@ -47,7 +45,7 @@
 {"key":"csp_xpath_bidiys","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/bidiys.json"},
 
 
-{"key":"csp_biubiu_douyu","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/douyu.json"},
+
 {"key":"csp_biubiu_tgys","name":"特狗影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"双十电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/1010dy.json"},
 {"key":"csp_biubiu_qyyy","name":"奇优影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/qyyy.json"},
