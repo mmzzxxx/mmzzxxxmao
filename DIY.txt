@@ -25,6 +25,11 @@
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_nbys","name": "🍭泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+{"key":"csp_xpath_qiyou","name":"🐞奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":1 ,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/603-qiyou.js"},
+{"key":"csp_xpath_huya","name":"🔞扛把子(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/kangbazi.json"},
+
+{"key":"csp_biubiu_韩剧佬","name":"🎸韩剧佬〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
+{"key":"csp_biubiu_韩剧在线","name":"🐳韩剧在线〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧在线.json"},
 
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
