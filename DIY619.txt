@@ -68,10 +68,10 @@
 
 
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
 {"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"8090资源(含官采)","name":"8090资源网(xml官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"m3u8资源(含官采)","name":"m3u8资源(xml官采)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 ],
 
 
