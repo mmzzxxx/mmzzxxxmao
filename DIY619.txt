@@ -3,7 +3,7 @@
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://mmzzxxx.github.io/mmzzxxxmao/20220618.txt",
+  "spider": "https://mmzzxxx.github.io/mmzzxxxmao/0618.jar",
 
 
 "sites": [
@@ -45,7 +45,7 @@
 {"key":"csp_xpath_dadagui","name":"达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 {"key":"csp_xpath_qiumi","name":"🏀球迷(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/qiumi.json"},
 
-{"key":"csp_xpath_zxzj","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/zxzj.json"},
+{"key":"csp_xpath_zxzj","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mmzzxxx.github.io/mmzzxxxmao/在线.json"},
 {"key":"csp_xpath_bidiys","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/bidiys.json"},
 
 
