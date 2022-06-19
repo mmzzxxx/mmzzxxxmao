@@ -3,7 +3,7 @@
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://mmzzxxx.github.io/mmzzxxxmao/0618.jar",
+  "spider": "https://mmzzxxx.github.io/maomao/0608baddy.jar",
 
 
 "sites": [
@@ -31,7 +31,7 @@
 {"key": "csp_相声小品","name": "🤡相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"斗鱼","name":"🎤斗鱼(PHP)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"开麦K歌搜歌","name":"🔊开麦K歌搜歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"开麦K歌搜人","name":"🔊开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+
 
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"🍄厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXP/czspp.json"},
