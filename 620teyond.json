@@ -149,7 +149,7 @@
 {"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "1" },{"category": 4,"name": "mediacodec-auto-rotate","value": "1"},
 {"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},{"category": 4,"name": "mediacodec-hevc","value" ：“1”}，{“类别”：1，“名称”：“dns_cache_timeout”，“值”：“600000000”}]}]，
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL210di5jaHhqb24uY24vbS96Yi50eHQ="]}] }],
-"flags": ["优酷","qq","爱奇艺","奇艺","乐视","搜狐","土豆","pptv","mgtv","wasu","bilibili"," duoduozy","re​​nrenmi"],"spider": "http://tyzx.weetai.cn/mtv/teyond.jar",
+"flags": ["优酷","qq","爱奇艺","奇艺","乐视","搜狐","土豆","pptv","mgtv","wasu","bilibili"," duoduozy","re​​nrenmi"],"spider": "https://mmzzxxx.github.io/mmzzxxxmao/teyond.jar",
 "广告": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs. svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
 "cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12 .cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com",
 "xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","嗯.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com",
