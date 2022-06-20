@@ -67,7 +67,7 @@
 {"key":"csp_biubiu_维奇动漫","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/维奇动漫.json"},
 
 {"key":"🔞丝袜资源(官采)","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"🔞环亚资源(官采)","name":"🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"🔞湿妹视频(官采)","name":"🔞湿妹视频","type":1,"api":"https://www.wetgirl9527.net/index.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"🔞523 资源(官采)","name":"🔞523 资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"🔞芒果资源(官采)","name":"🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"共青春(官采)","name":"共青春","type":1,"api":"https://gqcyy.com/api.php/provide/vod/" ,"playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
